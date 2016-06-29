@@ -1,0 +1,20 @@
+###DSAnalyser simulations information file###
+Simulation started by: 
+Debug/DSAnalyser 
+Begin: Wed May 19 13:47:26 2010
+###DSAnalyser simulations information file###
+Simulation started by: 
+Debug/DSAnalyser 
+Begin: Wed May 19 16:54:16 2010
+###DSAnalyser simulations information file###
+Simulation started by: 
+Debug/DSAnalyser 
+Begin: Wed May 19 18:55:21 2010
+###DSAnalyser simulations information file###
+Simulation started by: 
+Debug/DSAnalyser 
+Begin: Wed Jun  2 13:47:36 2010
+###DSAnalyser simulations information file###
+Simulation started by: 
+./Debug/DSAnalyser 
+Begin: Thu Jul  8 17:16:15 2010
